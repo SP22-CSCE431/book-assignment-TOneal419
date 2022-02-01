@@ -1,3 +1,3 @@
 # README
 
-This is the Book Collection assignment for CSCE 431
+This is the Book Collection Assignment for CSCE 431
